@@ -50,7 +50,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/guilhermecapitao/Proffy
+git clone   https://github.com/Kaytonnn/Proffy
 # Entrar no diretório
 cd Proffy
 # Baixar as dependências
